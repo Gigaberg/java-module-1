@@ -7,5 +7,7 @@ class Addition {
         int b = sc.nextInt();
         int c = a+b;
         System.out.println("Addition is "+c);
+    
+    sc.close();
     }
 }

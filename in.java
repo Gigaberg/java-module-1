@@ -1,9 +1,5 @@
-import java.util.Scanner;
-
 public class in {
-    public static void main(String []args){
-        Scanner sc 
-        
+    public static void main(String []args){ 
         String a = "Hello";
         String b = "hello";
         System.out.println(a);
@@ -17,7 +13,5 @@ public class in {
         else{
             System.out.println("They are not equal");
         }
-
-
     }
 }
